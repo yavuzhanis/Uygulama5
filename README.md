@@ -1,2 +1,2 @@
 # Uygulama5
-Haftanın Günleri
+Haftanın Günleri ile ilgili JAvaScript Çalışmam
